@@ -9,5 +9,6 @@
 * Programação web - backend;
 * Projeto backend;
 * Banco de dados;
+* Injeção de dependências;
 * Clean Code e design patterns;
 * Projeto web final (front + back + banco); 
