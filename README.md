@@ -6,6 +6,7 @@
 * Conceitos base em programação (compiladores, sync/async, vars by value/by reference);
 * Orientação a objetos;
 * Programação web - frontend;
+* Vue, npm e gerenciamento de dependencias;
 * Projeto frontend;
 * Programação web - backend;
 * Projeto backend;
