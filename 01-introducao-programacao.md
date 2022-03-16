@@ -29,10 +29,9 @@ Deve ser utilizado [Javascript](https://www.youtube.com/watch?v=4GDFeVhGBew&ab_c
 Idealmente o código produzido para a resolução dos exercícios deve ser feito em inglês, *mas não há problemas fazer em português caso acredite que isso irá tornar o aprendizado mais fácil*. O código produzido nos exercícios deve obrigatoriamente ser indentado.
 
 * [Estrutura Sequencial](https://wiki.python.org.br/EstruturaSequencial);
-* [Estrutura de Decisão](https://wiki.python.org.br/EstruturaDeDecisao);
-* [Estrutura de Repetição](https://wiki.python.org.br/EstruturaDeRepeticao);
-* [Estrutura de Lista](https://wiki.python.org.br/ExerciciosListas);
-* [Exercicios Funcoes](https://wiki.python.org.br/ExerciciosFuncoes);
+* [Estrutura de Decisão](https://wiki.python.org.br/EstruturaDeDecisao) fazer até o Nº 20;
+* [Estrutura de Repetição](https://wiki.python.org.br/EstruturaDeRepeticao) fazer até o Nº 28;
+* [Exercicios Funcoes](https://wiki.python.org.br/ExerciciosFuncoes) fazer até o Nº 13;
 
 ## Conclusão
 
