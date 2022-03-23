@@ -1,7 +1,7 @@
 # plano-estagio
 
 * [Introdução à programação](https://github.com/InnovaConnect/plano-estagio/blob/main/01-introducao-programacao.md);
-* Versionamento com GIT;
+* [Versionamento com GIT](https://github.com/InnovaConnect/plano-estagio/blob/main/02-versionamento-com-git.md);
 * Trabalhando com bash;
 * Conceitos base em programação (compiladores, sync/async, vars by value/by reference);
 * Orientação a objetos;
