@@ -1,4 +1,4 @@
-# Introdução a programação
+# Versionamento com git
 
 Essa etapa tem como objetivo repassar os conceitos de versionamento de código utilizando GIT. O Github deve ser utilizado como plataforma para estudo e resolução dos exercícios. 
 
